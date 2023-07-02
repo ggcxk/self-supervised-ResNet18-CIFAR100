@@ -11,4 +11,6 @@ python pre_train.py
 ```
 
 ### 在CIFAR-100上进行linear classification protocol
-结果见 finetune_test.ipynb
+```
+python finetune_test.py
+```
